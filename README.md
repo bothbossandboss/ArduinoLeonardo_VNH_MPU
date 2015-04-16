@@ -1,1 +1,2 @@
-# ArduinoLeonardo_VNH_MPU
+# Arduino Leonardo + VNH5019 + MPU9150
+MPU9150で読んだ値のうち一つを使っているが、物理的意味は無い...
